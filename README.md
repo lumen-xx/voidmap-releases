@@ -1,10 +1,6 @@
-<img src="docs/images/logo.png" alt="Voidamp logo" width="96" />
-
 # Voidamp
 
-A small macOS menu bar mixer for your apps, speakers and microphones.
-
-![Voidamp](docs/images/toolbar.png)
+A small menu bar mixer for your apps, speakers and microphones.
 
 ## Install
 
@@ -17,14 +13,12 @@ macOS 14.2+ · Apple silicon
 xattr -dr com.apple.quarantine /Applications/Voidamp.app
 ```
 
-3. Allow system audio access when prompted, then click the sound icon in the menu bar.
-
 Voidamp is not notarized yet. Only run this for Voidamp downloaded here.
 
 ## Use
 
-- Set each app's volume from 0–200%.
-- Mute sound or microphones, and pick output and input devices.
+- Click the sound icon in the menu bar and allow system audio access when asked.
+- Set each app's volume from 0–200%, mute sound or microphones, and pick devices.
 - Save device and level setups as profiles.
 
 Updates: **More → Check for Updates…**
