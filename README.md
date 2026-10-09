@@ -6,7 +6,7 @@ A small menu bar mixer for your apps, speakers and microphones.
 
 macOS 14.2+ · Apple silicon
 
-1. [Download Voidamp](https://github.com/lumen-xx/voidmap-releases/releases/latest), unzip and move **Voidamp.app** to **Applications**.
+1. [Download Voidamp](https://github.com/lumen-xx/voidamp-releases/releases/latest), unzip and move **Voidamp.app** to **Applications**.
 2. Open it. If macOS blocks it, go to **System Settings → Privacy & Security → Open Anyway**, or run:
 
 ```sh
